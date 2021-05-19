@@ -1,0 +1,6 @@
+RENCANA FRONTEND
+
+- Pelajari lagi javascript
+- belajar javascript dom
+- mencari tau framework javascript 
+- menentukan ingin belajar framework vue js atau react js
