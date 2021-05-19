@@ -3,4 +3,4 @@ RENCANA FRONTEND
 - Pelajari lagi javascript
 - belajar javascript dom
 - mencari tau framework javascript 
-- belajar framework vue.js
+- menentukan ingin belajar framework vue js atau react js
