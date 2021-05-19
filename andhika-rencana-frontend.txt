@@ -1,0 +1,5 @@
+RENCANA FRONTEND
+
+- Pelajari lagi javascript
+- belajar javascript dom
+- belajar framework vue.js
