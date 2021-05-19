@@ -6,3 +6,5 @@ ANDHIKA RESOLUSI
 - belajar framework laravel
 - mereview apa yang sudah dipelajari
 - memperdalam pengetahuan mengenai website
+- membuat project website e commerce
+- bergabung dan kolaborasi dengan sesama backend developer
