@@ -1,0 +1,8 @@
+ANDHIKA RESOLUSI
+- meningkatkan kemampuan fundamental bahasa php
+- meningkatkan kemampuan fundamental php oop
+- belajar mvc
+- belajar frame code igniter
+- belajar framework laravel
+- mereview apa yang sudah dipelajari
+- memperdalam pengetahuan mengenai website
