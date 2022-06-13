@@ -1,0 +1,4 @@
+RENCANA FULLSTACK
+
+- mempelajari Node js dan express js
+- menguasai Laravel api
