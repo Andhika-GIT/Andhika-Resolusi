@@ -1,0 +1,4 @@
+RENCANA FRAMEWORK FRONTEND
+
+- menguasai Vue js dan inertia
+- mempelajari Nuxt Js
